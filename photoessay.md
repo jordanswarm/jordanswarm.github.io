@@ -1,3 +1,9 @@
+[About](about.md)
+
+[Singles](singles.md)
+
+[Home](index.md)
+
 ![image-title-here](/images/DSC_0018edit.jpg)
 ![image-title-here](/images/DSC_0020copy.jpg)
 ![image-title-here](/images/DSC_0029copy.jpg)
