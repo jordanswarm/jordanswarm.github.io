@@ -1,5 +1,5 @@
 [About](about.md)
 
-[Singles] (singles.md)
+[Singles](singles.md)
 
-[Photo Essay] (photoessay.md)
+[Photo Essay](photoessay.md)
