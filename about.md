@@ -1,3 +1,8 @@
+[About](about.md)
+
+[Singles](singles.md)
+
+[Home](index.md)
 
 # Hi!
 
